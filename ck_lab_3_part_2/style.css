@@ -1,0 +1,26 @@
+/* Import Google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&family=Texturina:wght@200&display=swap');
+
+/* Update headers */
+
+h2 {
+  font-family: "Coda";
+  font-size: 40px;
+  color: purple;
+}
+
+h3 {
+  font-family: "Texturina";
+  font-size: 25px;
+  color: magenta;
+}
+
+body {
+  font-family: "Coda";
+  font-size: 18px;
+  color: teal;
+  background-color: yellow;
+}
+
+
